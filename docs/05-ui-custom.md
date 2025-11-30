@@ -83,12 +83,14 @@ Primary: #4F46E5 (인디고)
 
 ### 아이콘
 
+{% raw %}
 ```blade
 {{-- Heroicons (Tailwind 공식) --}}
 <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
     ...
 </svg>
 ```
+{% endraw %}
 
 [Heroicons](https://heroicons.com/) - Tailwind와 찰떡 궁합
 
