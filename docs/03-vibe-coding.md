@@ -2,6 +2,7 @@
 layout: default
 title: 03. 바이브코딩 - 게시판 + 백오피스
 nav_order: 4
+permalink: /03-vibe-coding/
 ---
 
 # 03. 바이브코딩: 게시판 + 백오피스
@@ -238,4 +239,4 @@ php artisan permission:cache-reset
 
 ## 다음 단계
 
-게시판 + 백오피스가 완성되었습니다! [04. 서비스 공개](./04-서비스공개)에서 ngrok으로 외부에 공개하는 방법을 알아봅니다.
+게시판 + 백오피스가 완성되었습니다! [04. 서비스 공개](./04-deploy)에서 ngrok으로 외부에 공개하는 방법을 알아봅니다.
