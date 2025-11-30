@@ -2,6 +2,7 @@
 layout: default
 title: 05. 보너스 - UI 커스텀
 nav_order: 6
+permalink: /05-ui-custom/
 ---
 
 # 05. 보너스: UI 커스텀
