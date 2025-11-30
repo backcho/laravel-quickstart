@@ -1,0 +1,33 @@
+# Jekyll 설정 (GitHub Pages용)
+title: Laravel 빠른 시작 가이드
+description: 바이브 코더를 위한 0원 MVP 개발
+baseurl: "/laravel-quickstart"
+url: "https://backcho.github.io"
+
+# 테마 설정
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# 마크다운 설정
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+
+# 파일 제외
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# 기본 레이아웃
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
