@@ -43,11 +43,11 @@ Laravel은 **"batteries included"** 철학으로, 웹 애플리케이션에 필�
 
 ## 문서 목차
 
-1. [PHP 개발환경 준비](./01-setup)
-2. [프로젝트 설치/생성](./02-create-project)
-3. [바이브코딩: 게시판 + 백오피스](./03-vibe-coding)
-4. [서비스 공개 (ngrok)](./04-deploy)
-5. [보너스: UI 커스텀](./05-ui-custom)
+1. [PHP 개발환경 준비](./01-setup/)
+2. [프로젝트 설치/생성](./02-create-project/)
+3. [바이브코딩: 게시판 + 백오피스](./03-vibe-coding/)
+4. [서비스 공개 (ngrok)](./04-deploy/)
+5. [보너스: UI 커스텀](./05-ui-custom/)
 
 ## 핵심 기술 스택
 
@@ -67,7 +67,7 @@ Laravel은 **"batteries included"** 철학으로, 웹 애플리케이션에 필�
 
 ## 시작하기
 
-[01. PHP 개발환경 준비](./01-setup)부터 순서대로 따라오세요!
+[01. PHP 개발환경 준비](./01-setup/)부터 순서대로 따라오세요!
 
 ---
 
